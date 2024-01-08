@@ -1,4 +1,5 @@
 * {
+    
     font-family: 'Open Sans', sans-serif, ;
 
 }
@@ -28,6 +29,11 @@
     background-image: url('img/Banner\ Image.png');
     padding: 100px;
     margin-top: 30px;
+    
+
+
+
+    
 
 
 
@@ -38,8 +44,8 @@
 }
 
 .header-h4 {
-    color: #000000;
-    font-weight: 400;
+    color: #0b0000;
+    font-weight: 900;
     font-size: 32;
     text-align: center;
     margin-top: 50px;
@@ -47,7 +53,7 @@
 }
 
 .header-h1 {
-    color: #080808;
+    color: #0f0000;
     font-weight: 900;
     font-size: 72px;
     line-height: 95px;
