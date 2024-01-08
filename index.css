@@ -3,35 +3,32 @@
 
 }
 
-.primary-button{
+.primary-button {
     background-color: #F00;
-    padding:16px 32px;
-    border-radius:10px;
+    padding: 16px 32px;
+    border-radius: 10px;
     border: none;
 }
 
 /* header section */
 
 
-.header-section {
-    
-
-}
+.header-section {}
 
 
 
 .header-banner {
-    max-width:920px;
-    height:400px;
+    max-width: 920px;
+    height: 400px;
     background: fixed;
     background: no-repeat;
-    background-position:center;
+    background-position: center;
     margin: auto;
     border-radius: 16px;
     background-image: url('img/Banner\ Image.png');
-    padding:100px;
-    margin-top:30px;
-    
+    padding: 100px;
+    margin-top: 30px;
+
 
 
 
@@ -62,92 +59,102 @@
 
 
 /* main sart */
-.discount-section{}
+.discount-section {}
 
-.discount{text-align: center;}
+.discount {
+    text-align: center;
+}
 
-.sub-heading{text-align: center;}
-.off{
+.sub-heading {
+    text-align: center;
+}
+
+.off {
     font-weight: 700;
     font-size: 88px;
-    color:red;
+    color: red;
 }
-.h6{
+
+.h6 {
     font-weight: 500;
     font-size: 24px;
     color: red;
 }
 
-.all-categories{
+.all-categories {
     font-weight: 700;
     font-size: 48px;
-    color:black;
+    color: black;
 }
-.heading{text-align: center;}
 
-.discount-img{text-align: center;}
+.heading {
+    text-align: center;
+}
+
+.discount-img {
+    text-align: center;
+    margin: auto;
+}
 
 
 
 /* wellcome  */
 
-.background-div{
-    max-width:920px;
-    height:400px;
-    background: fixed;
+.background-div {
+    max-width: 920px;
+    height: 400px;
+    /* background: fixed; */
     background: no-repeat;
-    background-position:center;
+    background-position: center;
     margin: auto;
     border-radius: 16px;
-    background-image:url('img/Vectorrr.png');
+    background-image: url('img/Vectorrr.png');
     display: flex;
     padding: 100px;
 }
 
-.wellcom-heading{
-color: #ffffff;
-font-size: 64px;
-font-weight:900;
+.wellcom-heading {
+    color: #ffffff;
+    font-size: 64px;
+    font-weight: 900;
 }
 
 
-.wellcome-p{
-    color: rgba(255, 255, 255, 0.80);}
+.wellcome-p {
+    color: rgba(255, 255, 255, 0.80);
+}
 
 
-.wellcome-button{
+.wellcome-button {
     color: #ffffff;
     margin-left: 20px;
 }
 
 
 
-.wellcome-button{}
+.wellcome-button {}
 
 
 
-.wellcome-pic{
-    
-}
-.pic{
-    
-}
+.wellcome-pic {}
+
+.pic {}
 
 
 
 /* detail */
 
-.detail{
+.detail {
     font-size: 32px;
-    font-weight:600;
-    max-width:920px;
-    height:300px;
+    font-weight: 600;
+    max-width: 920px;
+    height: 300px;
     background: linear-gradient(to bottom, #f3b4a4, #fff8f3);
     text-align: center;
-    margin-left:100px;
+    margin-left: 100px;
     margin-top: 200px;
     margin: auto;
-    border-radius:16px;
+    border-radius: 16px;
     padding: 100px;
 
 
@@ -156,9 +163,9 @@ font-weight:900;
 
 
 
-.three-dvi{
-    max-width:920px;
-    height:300px;
+.three-dvi {
+    max-width: 920px;
+    height: 300px;
     display: flex;
     margin: auto;
     background-color: rgb(255, 255, 255);
@@ -168,199 +175,252 @@ font-weight:900;
 }
 
 
-.coming-p{
-    font-weight:400;
+.coming-p {
+    font-weight: 400;
     font-size: 20px;
-    color:rgba(7, 2, 17, 0.60);
+    color: rgba(7, 2, 17, 0.60);
 }
 
 
-.coming{
-    font-weight:900;
-    font-size:48px;
+.coming {
+    font-weight: 900;
+    font-size: 48px;
     color: #070211;
 }
 
 
-.offer-h{
-    font-weight:500;
-    font-size:24px;
+.offer-h {
+    font-weight: 500;
+    font-size: 24px;
     color: #F00;
 }
 
-.div-item{
+.div-item {
     max-width: 30%;
     margin: auto;
 }
 
-.year{
+.year {
     color: #F00;
     font-size: 48px;
-    font-weight:700px;
+    font-weight: 700px;
 }
-.year-p{
+
+.year-p {
     font-weight: 400;
     font-size: 20px;
-    color:rgba(7, 2, 17, 0.60);
+    color: rgba(7, 2, 17, 0.60);
 }
 
 
 
 
-.holiday-section{
-    max-width:920px;
-    height:300px;
+.holiday-section {
+    max-width: 920px;
+    height: 300px;
     padding: 100px;
     text-align: center;
 }
 
 
-.holiday-sub-heading{
-    font-weight:500;
-    font-size:24px;
-    color:#070211;
+.holiday-sub-heading {
+    font-weight: 500;
+    font-size: 24px;
+    color: #070211;
 }
 
-.holiday-heading{
+.holiday-heading {
     font-weight: 900;
-    font-size:72px;
+    font-size: 72px;
     color: #070211;
 }
 
 
-.holiday-p{
-    font-weight:500;
-    font-size:20px;
+.holiday-p {
+    font-weight: 500;
+    font-size: 20px;
     color: rgba(7, 2, 17, 0.60);
 }
 
 /* vector */
 
 
-.vector-div{
-    max-width:1020px;
-    height:662px;
+.vector-div {
+    max-width: 1020px;
+    height: 662px;
     /* border: 1px solid brown; */
     margin: auto;
     background-image: url('img/Rectangle\ 2.png');
-    background-repeat:no-repeat;
+    background-repeat: no-repeat;
     background-position: bottom;
     border-radius: 5px;
     position: relative;
 }
 
 
-.vector-img{
+.vector-img {
     width: 429px;
-    height:433px;
-    background-image:url('img/Rectangle\ 1.png');
-    background-position:;
+    height: 433px;
+    background-image: url('img/Rectangle\ 1.png');
+    background-position: ;
     float: right;
     background-repeat: no-repeat;
 }
 
-.vector{
-    max-width:500px;
+.vector {
+    max-width: 500px;
     margin-top: 210px;
     margin-left: 20px;
 }
 
-.discount-img{
+.discount-img {
     position: absolute;
-    margin-left:450px;
-    max-width:250px;
+    margin-left: 450px;
+    max-width: 250px;
 }
 
-.gift-p{
+.gift-p {
     font-weight: 400;
-    font-size:20px;
+    font-size: 20px;
     color: rgba(7, 2, 17, 0.60);
     max-width: 75%;
 }
 
-.portfolio{
+.portfolio {
     font-weight: 900;
     font-size: 48px;
     color: #070211;
 }
 
-.best-gift{
-    font-weight:500;
+.best-gift {
+    font-weight: 500;
     font-size: 24px;
     color: #F00;
     /* margin-top: 500px; */
 
 }
 
-.gift{
+.gift {
     max-width: 1020px;
     height: auto;
     margin: auto;
-    margin-top:30px;
+    margin-top: 30px;
 }
 
-.shows{
-    max-width:1020px;
-    margin:auto;
+.shows {
+    max-width: 1020px;
+    margin: auto;
 }
 
 
-.shows-img{
-    max-width:30%;
-    display:flex;
+.shows-img {
+    max-width: 30%;
+    display: flex;
     gap: 10px;
     text-align: center;
 }
 
-.fixing{
+.fixing {
     max-width: 333.5px;
-    max-height:450px;
+    max-height: 450px;
 }
 
 
 
-.newsletter{
+.newsletter {
     max-width: 1020px;
-    height:600px;
+    height: 600px;
     background-color: rgba(255, 0, 0, 0.05);
     margin: auto;
-    margin-top:60px;
+    margin-top: 60px;
 }
 
-.newsletter-img{
-   align-items: center;
-   justify-content:center;
-   display: flex;
-   
-   
+.newsletter-img {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+
+
 }
 
 
-.newsletter-p{text-align: center;
-    font-weight:400;
-    font-size:20px;
+.newsletter-p {
+    text-align: center;
+    font-weight: 400;
+    font-size: 20px;
     color: rgba(7, 2, 17, 0.60);
 }
-.newsletter-headding{
+
+.newsletter-headding {
     text-align: center;
     font-weight: 900;
     font-size: 48px;
     color: #070211;
 }
 
-.email-set-up{
+.email-set-up {
     text-align: center;
 }
 
-.emails{
-    border:none;
-    padding:5px 10px;
+.emails {
+    border: none;
+    padding: 5px 10px;
     border-radius: 5px 0px 0px 5px;
 
 }
-.submit{
+
+.submit {
     background-color: #F00;
     border: none;
     padding: 5px;
     border-radius: 0px 5px 5px 0px;
+}
+
+/* footer */
+
+
+.footers {
+    margin-top: 20px;
+    background-color: #070211;
+    width: auto;
+    height: 400px;
+}
+
+.addres-number{
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.addres {
+    max-width: 50%;
+    text-align: left;
+    color: #ffffff;
+    width: auto;
+    height: 50px;
+    margin-left: 50px;
+
+}
+
+.number {
+    max-width: 50%;
+    width: auto;
+    height: 50px;
+    text-align:center;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 200px;
+    margin-top: 30px;
+}
+
+.call{text-align:center;
+}
+.call-number{text-align:center;
+color: #ffffff;}
+
+.twitter{
+    margin-top: 100px;
+    text-align: center;
 }
