@@ -99,7 +99,7 @@
     background-position:center;
     margin: auto;
     border-radius: 16px;
-    background-image:url('/img/Vectorrr.png');
+    background-image:url('img/Vectorrr.png');
     display: flex;
     padding: 100px;
 }
@@ -242,7 +242,7 @@ font-weight:900;
     height:662px;
     /* border: 1px solid brown; */
     margin: auto;
-    background-image: url('/img/Rectangle\ 2.png');
+    background-image: url('img/Rectangle\ 2.png');
     background-repeat:no-repeat;
     background-position: bottom;
     border-radius: 5px;
@@ -253,7 +253,7 @@ font-weight:900;
 .vector-img{
     width: 429px;
     height:433px;
-    background-image:url('/img/Rectangle\ 1.png');
+    background-image:url('img/Rectangle\ 1.png');
     background-position:;
     float: right;
     background-repeat: no-repeat;
