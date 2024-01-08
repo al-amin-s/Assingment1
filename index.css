@@ -13,11 +13,6 @@
 
 /* header section */
 
-
-.header-section {}
-
-
-
 .header-banner {
     max-width: 920px;
     height: 400px;
@@ -30,16 +25,6 @@
     padding: 100px;
     margin-top: 30px;
     
-
-
-
-    
-
-
-
-
-
-
 
 }
 
@@ -59,8 +44,6 @@
     line-height: 95px;
     text-align: center;
 }
-
-
 
 
 
@@ -135,16 +118,6 @@
     color: #ffffff;
     margin-left: 20px;
 }
-
-
-
-.wellcome-button {}
-
-
-
-.wellcome-pic {}
-
-.pic {}
 
 
 
@@ -421,10 +394,13 @@
     margin-top: 30px;
 }
 
-.call{text-align:center;
+.call{
+    text-align:center;
 }
-.call-number{text-align:center;
-color: #ffffff;}
+.call-number{
+    text-align:center;
+color: #ffffff;
+}
 
 .twitter{
     margin-top: 100px;
